@@ -9,7 +9,6 @@ export const menuGroups: MenuProps[][] = [
         { id: 1, title: 'Dashboard', icon: 'dashboard' },
         { id: 2, title: 'Tickets', icon: 'local-activity' },
         { id: 3, title: 'Live Support Chat', icon: 'support-agent' },
-        { id: 4, title: 'Notifications', icon: 'notifications' },
     ],
     [
         { id: 5, title: 'Devices', icon: 'devices' },
